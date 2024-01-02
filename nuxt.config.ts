@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", "@nuxt/image"],
   app: {
     head: {
-      title: 'Ultra Maszyna - Konserwacja',
+      title: 'EveSelection - Konserwacja',
       meta: [
         {
           name: "robots",
